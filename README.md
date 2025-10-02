@@ -41,3 +41,8 @@ Este repositório contém as atividades desenvolvidas durante a disciplina **Fro
 - CSS de componente  
 - CSS dinâmico (com classes)  
 - CSS module  
+
+### Integração com APIs
+- JSON Server  
+- Resgatando dados [GET]  
+
