@@ -1,6 +1,6 @@
 # 💻 Repositório da Disciplina Front-End Avançado
 
-Este repositório contém as atividades desenvolvidas durante a disciplina **Front-End Avançado**.
+Este repositório contém as atividades desenvolvidas durante a disciplina **Front-End Avançado** ministrada pelo **Professor Kelson Almeida**.
 
 ## 💡 Conteúdos Abordados
 
