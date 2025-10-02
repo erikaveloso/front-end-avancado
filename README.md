@@ -46,3 +46,9 @@ Este repositório contém as atividades desenvolvidas durante a disciplina **Fro
 - JSON Server  
 - Resgatando dados [GET]  
 
+---
+
+### 👩‍💻 Autora
+- Desenvolvido por: **Érika Veloso**  
+- 📚 Curso: **Sistemas para Internet**  
+- 🌐 Projeto acadêmico com fins educativos 
