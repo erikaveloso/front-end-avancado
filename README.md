@@ -45,10 +45,14 @@ Este repositório contém as atividades desenvolvidas durante a disciplina **Fro
 ### Integração com APIs
 - JSON Server  
 - Resgatando dados [GET]  
+- Axios 
+
+### Navegação
+- React Router
 
 ---
 
 ### 👩‍💻 Autora
 - Desenvolvido por: **Érika Veloso**  
 - 📚 Curso: **Sistemas para Internet**  
-- 🌐 Projeto acadêmico com fins educativos 
+- 🌐 Projeto acadêmico com fins educativos
