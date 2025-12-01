@@ -5,6 +5,7 @@ import Inicial from './pages/inicial'
 import CustomNavbar from './components/CustomNavbar'
 import Faculdade from './pages/Faculdade'
 import Footer from './components/Footer'
+import Noticias from './pages/Noticias'
 
 
 const App = () => {
@@ -15,6 +16,7 @@ const App = () => {
       <Routes>
         <Route path="/" element={<Inicial />} />
         <Route path="/a-faculdade" element={<Faculdade />} />
+        <Route path="noticias" element={<Noticias />} />
       </Routes>
     </Container>
     <Footer />
