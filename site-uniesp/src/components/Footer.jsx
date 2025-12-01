@@ -8,7 +8,6 @@ const Footer = () => {
       <Container>
         <div className="row">
 
-          {/* Coluna 1 */}
           <div className="col-md-4 mb-4">
             <h5 className="fw-bold">UNIESP</h5>
             <p className="mb-0">
@@ -18,7 +17,7 @@ const Footer = () => {
             </p>
           </div>
 
-          {/* Coluna 2 */}
+
           <div className="col-md-4 mb-4">
             <h5 className="fw-bold">Links úteis</h5>
             <ul className="list-unstyled">
@@ -40,7 +39,7 @@ const Footer = () => {
             </ul>
           </div>
 
-          {/* Coluna 3 */}
+
           <div className="col-md-4 mb-4">
             <h5 className="fw-bold">Contato</h5>
             <p className="mb-0">

@@ -13,7 +13,7 @@ const Noticias = () => {
 
       <Row className="g-4">
 
-        {/* Notícia 1 */}
+
         <Col md={4}>
           <Card className="h-100 shadow-sm">
             <Card.Img
@@ -33,7 +33,7 @@ const Noticias = () => {
           </Card>
         </Col>
 
-        {/* Notícia 2 */}
+
         <Col md={4}>
           <Card className="h-100 shadow-sm">
             <Card.Img
@@ -53,7 +53,7 @@ const Noticias = () => {
           </Card>
         </Col>
 
-        {/* Notícia 3 */}
+
         <Col md={4}>
           <Card className="h-100 shadow-sm">
             <Card.Img
