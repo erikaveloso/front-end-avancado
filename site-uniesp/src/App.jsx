@@ -4,6 +4,7 @@ import { BrowserRouter, Route, Routes } from 'react-router-dom'
 import Inicial from './pages/inicial'
 import CustomNavbar from './components/CustomNavbar'
 import Faculdade from './pages/Faculdade'
+import Footer from './components/Footer'
 
 
 const App = () => {
@@ -16,6 +17,7 @@ const App = () => {
         <Route path="/a-faculdade" element={<Faculdade />} />
       </Routes>
     </Container>
+    <Footer />
     </BrowserRouter>
   )
 }
