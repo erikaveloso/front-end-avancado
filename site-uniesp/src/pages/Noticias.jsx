@@ -3,15 +3,13 @@ import { Container, Row, Col, Card } from 'react-bootstrap';
 
 const Noticias = () => {
   return (
-    <Container className="my-5">
+    <Container className="py-4">
 
-      {/* Título da Página */}
-      <h2 className="fw-bold mb-4 text-center">Notícias</h2>
+        <h1 className="fw-bold mb-4">Notícias</h1>
 
-      {/* Subtítulo */}
-      <p className="text-center mb-5">
+        <p className="text-muted">
         Acompanhe as novidades, eventos e comunicados importantes da UNIESP.
-      </p>
+        </p>
 
       <Row className="g-4">
 

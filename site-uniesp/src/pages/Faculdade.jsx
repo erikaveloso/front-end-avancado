@@ -4,7 +4,8 @@ import { Card, Container, Row, Col } from 'react-bootstrap'
 const Faculdade = () => {
   return (
     <Container className="py-4">
-        <h2 className="mb-4">A faculdade</h2>
+
+        <h1 className="fw-bold mb-4">A Faculdade</h1>
         
         <Card className="mb-4 shadow-sm">
             <Card.Body>
